@@ -1,2 +1,2 @@
 # whatsapp
-this repository to create chat aopplication
+this repository to create chat application
